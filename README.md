@@ -1,4 +1,4 @@
-# typescript
+# Cardapio
 Consumindo api com Axios e React Query
 
 # Sobre o projeto
