@@ -2,7 +2,7 @@
 Consumindo api com Axios e React Query
 
 # Sobre o projeto
-Aplicação web feita em React e typescript que consome uma api de cardápio.
+Aplicação web feita em React que consome uma api de cardápio.
 
 # Tecnologias utilizadas
 
