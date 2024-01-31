@@ -22,10 +22,10 @@ Aplicação web feita em React que consome uma api de cardápio.
 
 ```bash
 # clonar repositório
-git clone https://github.com/eijilucas/typescript
+git clone https://github.com/eijilucas/cardapio
 
 # entrar na pasta do projeto
-cd typescript
+cd cardapio
 
 # executar o projeto
 code .
